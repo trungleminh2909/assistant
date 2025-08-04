@@ -1,10 +1,6 @@
-# app.py
-
 import os
-# ————————————————————————————————————————————————————————————————
 # Allow multiple OpenMP runtimes so the process doesn’t abort
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
-# ————————————————————————————————————————————————————————————————
 
 import json
 import tornado.ioloop
@@ -101,7 +97,6 @@ def make_app():
         (r"/favicon.ico", FaviconHandler),
     ], debug=True)
 
-# allow both `python app.py` and `python main.py` to run the server
 if __name__ == "__main__":
     port = int(os.environ.get("PORT", 8888))
     app = make_app()

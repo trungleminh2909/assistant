@@ -25,7 +25,7 @@ def build_retriever(docs: list) -> any:
     index_dir = os.path.join(STORE_PATH, "vectorstore")
 
     if os.path.exists(index_dir):
-        # load existing index (ours—safe to unpickle)
+        # load existing index, allow dangerouse deserialization to load from file
         db = FAISS.load_local(
             index_dir,
             emb,

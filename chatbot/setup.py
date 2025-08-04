@@ -1,5 +1,3 @@
-# chatbot/setup.py
-
 import os
 import shutil
 import json
