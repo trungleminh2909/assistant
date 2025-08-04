@@ -1,0 +1,686 @@
+--- PAGE 1 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+TMA solut1 ns
+SỔ TAY NHÂN VIÊN
+Phiên bản 6.0 2025
+TMA Confidential
+@TMA Solutions, 2024
+Trang 1
+
+--- PAGE 2 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+GỞl CÁC THÀNH VIÊN MỚI CỦA TMA! Ban giám đốc công ty TMA (TMA Solutions) trân trọng gởi tới bạn lời chào đón chân thành và nồng nhiệt nhân dịp bạn gia nhập công ty và trở thành thành viên của gia đinh TMA. Chúng tôi hy vọng các bạn sẽ đóng góp tài năng của mình để đưa TMA trởthành một trong những công ty hàng đầu trong cả linh vực gia công phần mềm và lĩnh vực công nghệ viễn thông, góp phần nâng cao vị thế của ngành phần mềm Việt Nam nói chung và ngành viễn thông nói riêng.
+BẠN LÀ MỘT THÀNH VIÊN QUAN TRỌNG CỦA TMA CHÚNG TÔI
+Công ty TMA thành lập vào tháng 10/1997 với sỗ thành viên ban đầu chỉ gồm 06 kỷ sư. Đến nay TMA đâ có bưởc tắng trưởng đột phá cả về chất lượng lẫn sõ lượng với đội ngũ 3000+ kỹ sư trẻ tài năng. Chúng tôi tự tin rằng với sự hợp tác của bạn, chúng ta sê cùng hướng đến xây dựng TMA thành một tổ chức năng động phát triển không ngừng. Sổ tay nhân viên với những thông tin cần thiết về các qui định làm việc, về chính sách se giúp bạn có một cái nhìn khái quát về TMA. Nội dung của sổ tay sế được sửa đổi, bổ sung định kỳ cho phù hợp với từng giai đọan phát triển của công ty TMA.
+Thân mến
+BAN GIÁM ĐỐC TMA
+TMA Confidential
+@TMA Solutions, 2024
+Trang 2
+
+--- PAGE 3 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+Mục lục:
+Chương I: Chính sách và phúc lợi 1 . Tuyển dụng và công việc 1. Tuyển dụng và thuyên chuyển 2. Thử việc 3. Hợp đồng lao động 4. Thời gian làm việc 5. Cơ hội thăng tiến 6. Chấm dứt hợp đồng lao động . 7 .Xử lý kỷ luật 8. Trách nhiệm bồi thường vật chất
+6
+6
+6
+7
+7
+7
+9
+10
+I1. Tiền lương và phúc lợi 1. Chính sách lương 2. Chế độ thưởng/phúc lợi 3. Tang, hôn, hiếu, hỷ 4. Thể thao và giải trí 5. Khám sức khỏe hàng năm 6. Bảo hiểm xã hội, bảo hiểm ytế và bảo hiểm thất nghiệp 7.Cơ sởvật chãt
+11
+11
+16
+16 17
+17
+17
+III. Quy định về ngày nghỉ 1 . Nghỉ lễltết 2. Nghi phép năm 3. Nghỉ bệnh 4. Nghi thai sản 5. Các loại phép khác 6. Chuyên cần
+18
+18
+19
+19
+19
+20
+IV. Đào tạo và phát triển 1 Đào tạo nội bộ 2. Đào tao bên ngoài TMA 3.Đào tạo ở nuớc ngoài 4. Đánh giá thành tích nhân viên
+21
+21
+21
+22
+TMA Confidential
+@TMA Solutions, 2024
+Trang 3
+
+--- PAGE 4 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+Chương II 1. Các điều kiện
+1 . Thẻ nhân viên_ 2. Tác phong làm việc 3. Quy ưởc xử sự - giao tiếp trong công ty 4. Mang hàng hóa ra / vào công ty 5. Nguyên tắc xử lý tài liệu 6. Nguyên tắc an ninh 7 . Kiểm tra an ninh 8. Thất lạc tai sản cá nhân ~ hoàn trả
+24
+24
+25
+27
+27
+27
+28
+28
+II. Các quy dịnh về bảo mật 1. Sự cần thiết phải bảo mật thông tin 2. Các nguyên tắc bảo mật thông tin 3. Quy định về bảo mật thông tin 4.Thư điện tử-  email 5. Internet 6. Mât khẩu và mật mã 7. Máy tính, server và network
+28
+29
+30
+31
+31
+33
+34
+Chương Ill: Vệ sinh và an toàn PCCC 1. Tổ chức nơi làm việc 2. Nhận thức về cháy nổ 3. Phòng cháy & chữa cháy 4. Hành độngphản ứng khi cháy 5.Thủ tục sơtán 6. Bộ phận chữa cháy . 7 . Những điều nên và không nên khi có cháy 8 Nghĩa vụ của người lao động trong việc bảo vệ sức khỏe_ 9. Huấn luyện, kiểm tra định kỳ an toàn và vệ sinh lao động
+36
+37
+37
+38
+39
+39
+39
+40
+40
+Chương IlI: Phòng, chống quấy rối tình dục tại nơi làm việc 1. Các hành vi qrtd tại nơi làm việc 2. Nguyên tắc, thời hạn xử lý đối với người có hành vi qrtd tại nơi làm việc 3. Hình thức xử lý hành vi qrtd tại nơi làm việc 4. Quy trình xử lý hành vi qrtd tại nơi làm việc 5. Trách nhiệm, nghĩa vụ phòng, chõng qrtd tại nơi làm việc Phụ lục
+42
+43
+43
+43
+43
+TMA Confidential
+@TMA Solutions, 2024
+Trang 4
+
+--- PAGE 5 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+TMA s ol utl n s
+Chương |
+CHÍNH SÁCH VÀ PHÚC LỢl LA ERI V We
+TMA Confidential
+@TMA Solutions, 2024
+Trang 5
+
+--- PAGE 6 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+1 TUYỂN DỤNG & CÔNG VIỆC
+1. Tuyển dụng và thuyên chuyển Chính sách tuyển dụng nhân viên của TMA nhằm mục đích thu hút những ứng viên tài năng và tiềm năng nhất cho công tỵ Khuyến khích tãt cả các nhân viên của TMA tham gia vào hoat động tuyển dụng của công ty; để giới thiệu những ứng viên tiềm năng nhất. Đối với những trường hợp tuyển dụng gãp (có thông báo chính thức từ phòng Nhân Sự), nhân viên giới thiệu sê được nhận khoản tiền thưởng sau khi ứng viên vượt qua giai đoan thử việc và ký hợp đồng lao động (HĐLĐ) chính thức với công tỵ
+Thuyên chuyển dự án khi có yêu cầu: Nhân viên được thuyên chuyển dự án trong các trường hợp sau đâỵ. 1.Dự án hiện đang làm bị đóng hoặc đã thực hiện xong. 2. Quản lý dự án (của nhân viên được thuyên chuyển) yêu câu thuyên chuyển . 3. Nhân viên có nguyện vọng được thuyên chuyển.
+2.Thử việc Theo qui dinh tai Điều 25 ~ BLLĐ 2019. Thời gian thử việc không quá 60 ngày đối với lao động chuyên môn kỹ thuật cao.
+Trong thời gian thử việc, mỗi bên có quyền hủy bỏ thỏa thuận làm thử và phải thông báo trưởc 05 ngày & không phải bồi thường nếu việc làm thử không đạt yêu cầu mà 2 bên đã thỏa thuận
+3. Hợp đồng lao dộng Nhân viên hoàn thành thời gian thử việc và đạt yêu cầu sẽ được ký HĐLĐ có thời hạn. Sau đó, sẽ được ký HĐLĐ không xác định thời hạn. Được công ty đóng phí BHXH, BHYT & BHTN và đảm bảo các quyền lợi theo quy định của Luật lao động:. Bằng Hợp đồng lao động này; TMA tuyên bõ không thỏa thuận, không bảo lânh, không cam kết liên đới chịu trách nhiệm vởi người lao động đối với các hợp đồng vay; mượn, thế chãp tài sản và các trách nhiệm dân sự khác của cá nhân người lao động vởi bất kỳ cá nhân, tổ chức bên ngoài.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 6
+
+--- PAGE 7 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+4. Thời gian làm việc Sáng từ 8 giờ 30 đến 12 giờ. Chiều từ 13 giờ 30 đến 18 giờ từthứ 2 - thứ 6 Nghỉ cố định 1 ngày vào ngày Chủ Nhật. Làm việc thêm vào ngày thứ bảy nếu công việc yêu cầu.
+Thời giờ làm việc được yêu cầu thực hiện theo đúng lịch làm việc đã qui định. Đối với các dự án có yêu cầu đặc biệt về thời gian làm việc, Trưởng Dự Án (PM) phải xin phê duyệt từ Director của DC mình.
+5. Cơ hội thăng tiến Công ty luôn ghi nhận những thành tích và những đóng góp của nhân viên để đảm bảo công bằng. Cơ hội phát triển nghề nghiệp tại TMA được thực hiện theo bảng sau:
+New Position
+Grade
+Team Size condition
+2
+Engineer
+3
+4
+5 6
+Senior Engineer
+7
+8
+SME
+9 10 11 12
+Team Lead
+9
+5
+10
+15
+Project Manager
+11
+25
+Senior Manager Director Upper
+12
+40
+13
+80
+14
+250
+6. Chấm dứt hợp đồng lao động 6.1. Thủ tục xin thôi việc Khi nhân viên có nguyện vọng muõn chấm dứt HĐLĐ phải hoàn tất mẫu Đơn xin thôi việc Resignation Form & tuân thủ theo quy trinh nghỉ việc của công tỵ Tuân thủ thời hạn báo trước như sau: 45 ngày đối với nhân viên ký hợp đồng lao động không xác định thời hạn 30 ngày đối với nhân viên ký hợp đồng lao động xác đinh thời hạn Thời hạn báo trưởc sế được tính từ ngày phòng Nhân Sự nhận được đơn xin thôi việc của nhân viên
+TMA Confidential
+@TMA Solutions, 2024
+Trang 7
+
+--- PAGE 8 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+6.2. Trợ cấp thôi việc Theo Điều 46  BLLĐ 2019, nhân viên làm việc thường xuyên cho Doanh Nghiệp đủ 12 tháng trở lên được hưởng trợ cấp thôi việc, cứ mỗi năm làm việc là nửa tháng lương & phụ cấp lương nếu có, trừtrường hợp đủ điều kiện hưởng lương hưu theo quy đinh của pháp luật về bảo hiểm xã hội và trường hợp quy định tại điểm e khoản 1 Điều 36. Trợ cấp thôi việc được tính đẽn ngày 31/12/2008 Trường hợp nhân viên đơn phương chấm dứt HĐLĐ trái pháp luật thì không được trợ cấp thôi việc, phải bồi thường cho người SDLĐ nửa tháng tiền lương và một khoản tiền tương ứng vởi tiền lương theo HĐLĐ trong những ngày không báo trước & phụ cấp lương nếu có (Qui định tại Điều 40  BLLĐ 2019), đồng thời phải hoàn trả chi phí đào tạo nếu có (Qui định tại Điều 62 5 BLLĐ 2019)
+Các trường hợp không được trợ cấp thôi việc bao gồm:
+Hợp đồng lao động chấm dứt không thuộc quy định tại các khoản 1,2, 3,4,6,7,9 và 10 Điều 34 - BLLĐ Người lao động đủ điều kiện hưởng lương hưu theo quy định của pháp luật về bảo hiểm xã hội. Người lao động đơn phương chấm dứt hợp đồng lao động trái pháp luật không đúng quy định tại Điều 35 Bộ luật Lao động 2019. Người lao động tựý bỏ việc mà không có lý do chính đáng từ 05 ngày làm việc liên tục trở lên. Sa thải theo theo Điều 125 ~ BLLĐ 2019
+Trường hợp đơn phương chấm dứt HĐLĐ có tham gia các chương trình đào tạo và có ký cam kết với công ty =27 phải bồi thường chi phí đào tạo nếu có theo qui định của chính phủ (Tham khảo Chương | - Mục IV - Đào tao & Phát Triển)
+6.3. Thủ tục bàn giao công việc & trách nhiệm tài chính Nhân viên khi nghỉ việc có trách nhiệm phải bàn giao công việc, toàn bộ hồ sơ liên quan & các dung cụ làm việc lại cho người có trách nhiệm nhận bàn giao (do trưởng nhóm chỉ định) Nhân viên cũng được yêu cầu hoàn tất các khoản tạm ứng hoặc các trách nhiệm tài chính khác đối với công ty (nếu có) trước khi chính thức nghi việc. Công ty có quyền khấu trừ các khoản mà nhân viên chưa thanh toán vào các khoản chi trả từ Công ty khi nghỉ việc (kỳ lương cuõi trước khi nghi việc và trợ cấp thôi việc nếu có).
+TMA Confidential
+@TMA Solutions, 2024
+Trang 8
+
+--- PAGE 9 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+6.4. Thanh toán lương khi nghỉ việc Nhân viên khi nghỉ việc sẽ được thanh toán lương của những ngày làm việc tính đến thời điểm nghỉ việc & trợ cấp thôi việc (nếu có). Nhân viên bị sa thải chỉ được thanh toán lương tính đến thời điếm bị sa thải.
+6.5. Sa thải
+Nhân viên bị sa thải theo Điều 125 ~ BLLĐ 2019: a) Có hành vi quấy rối tình dục tại nơi làm việc được quy định trong nội quy lao động. b) Có hành vi trộm cắp; tham ô, đánh bạc, cố ý gây thương tích, sử dụng ma túy tại nơi làm việc; c) Có hành vi tiết lộ bí mật kinh doanh, bí mật công nghệ, xâm phạm quyền sở hữu trí tuệ của doanh nghiệp. Vi phạm các quy định của TMA hoặc gây thiệt hại nghiêm trọng về tài sản & lợi ích của công ty - qui định tại Chương Il: Các điều kiện và qui định về bảo mật d) Có hành vi gây thiệt hại nghiêm trọng hoặc đe dọa gây thiệt hại đặc biệt nghiêm trọng về tài sản, lợi ích của doanh nghiệp. e) Vi phạm Cam kết bảo mật thông tin. f) Không chấp hành các quy định về an toàn lao động và vệ sinh lao động g) Bị xử lý kỷ luật kéo dài thời hạn nâng lương hoặc cách chức mà tái phạm trong thời gian chưa xóa kỷ luật. Trong đó, tái phạm là trường hợp NLĐ lặp lại hành vi vi phạm đã bị xử lý kỷ luật mà chưa được xóa kỷ luật theo quy định tại Điều 126 BLLĐ 2019; h) Tựý bỏ việc 05 ngày cộng dồn trong thời hạn 30 ngày hoặc 20 ngày cộng dồn trong thời hạn 365 ngày tính từ ngày đầu tiên tựý bỏ việc mà không có lý do chính đáng. i) Kết quả đánh giá khả năng đáp ứng yêu cầu công việc không đạt yêu cầu trong các kỳ đánh giá trong năm (điểm sỗ từ 1 đến 4 - 02 lần liên tục)
+7.Xửlý kỷ luật Các hình thức xử lý kỷ luật được qui định tại điều 124 - BLLĐ 2019, Tùy7 theo mức độ phạm lỗi, nhân viên bịxửlý một trong những hình thức kỷ luật sau đây: Khiển trách miệng hoặc bằng văn bản được áp dụng đõi với nhân viên phạm lỗi lần đầu, nhưng ở mức độ nhẹ Kéo dài thời hạn nâng lương không quá 06 tháng Cách chức, chuyển làm công việc khác có mức lương thãp hơn trong thời hạn tối đa 06 tháng áp dụng đõi với nhân viên đã bị khiển trách bằng văn bản mà tái phạm trong thời hạn 03 tháng kể từ ngày bị khiển trách hoặc có những hành vi vi phạm đã được qui đinh trong nội quy lao động Hình thức sa thải được áp dụng đối với nhân viên vi phạm một trong những trường hợp qui định tại Điều 125 " BLLĐ 2019 & đấ được qui định trong nội quy lao động
+TMA Confidential
+@TMA Solutions, 2024
+Trang 9
+
+--- PAGE 10 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+Đối với trường hợp nhân viên có hành vi vi phạm nội quy nghiêm trọng, không đảm bảo tính bảo mật thông tin, phá hoại các cơ sở lưu giữ thông tin, dữ liệu, hệ thõng đường truyền, máy móc, thiết bị là tài sản của công ty thì công ty sẽ áp dụng biện pháp an toàn cho hệ thõng tức thời và nhân viên không được tiếp cận với môi trường làm việc cho đến khi có quyết đinh của Ban Giám Đốc công ty Trường hợp phát hiện Người lao động có hành vi vi phạm sau khi chãm dứt HĐLĐ thì Công ty sẽ yêu cầu các Cơ quan chức năng xử lý theo quy đinh của pháp luật.
+8. Trách nhiệm bồi thường vật chất 8.1. Bồi thường thiệt hại Người lao động làm hư hỏng dụng cụ, thiết bị hoặc có hành vi khác gây thiệt hại tài sản của người sử dụng lao động thì phải bồi thường theo quy định của pháp luật.
+Trường hợp người lao động gây thiệt hại không nghiêm trọng do sơ suãt với giá trị không quá 10 tháng lương tõi thiểu vùng do Chính phủ công bố được áp dụng tại nơi người lao động làm việc thì người lao động phải bồi thường nhiều nhất là 03 tháng tiền lương và bị khấu trừ hằng tháng vào lương theo quy định tại khoản 3 Điều 102 của Bộ luật lao động. Người lao động làm mất dụng cụ, thiết bị, tài sản của người sử dụng lao động hoặc tài sản khác do người sử dụng lao động giao hoặc tiêu hao vật tư quá định mức cho phép thì phải bồi thường thiệt hại một phần hoặc toàn bộ theo thời giá thị trường hoặc nội quy lao động; trường hợp có hợp đồng trách nhiệm thì phải bồi thường theo hợp đồng trảch nhiệm; trường hợp do thiên tai, hỏa hoan, địch họa, dịch bệnh nguy hiếm, thảm họa, sự kiện xảy ra khách quan không thể lường trưởc được và không thể khẳc phục được mặc dù đấ áp dung mọi biện pháp cần thiết và khả năng cho phép thì không phải bồi thường. Người lao động vi phạm thỏa thuận bảo mật thông tin về bí mật kinh doanh, bí mật công nghệ theo Điều 26 (Đõi tượng cần bảo mật thông tin) thì Người sử dụng lao động có quyền yêu cầu Người lao động bồi thường theo thỏa thuận của hai bên dựa trên gỈá trị tổn thất mà Người lao động gây ra, bao gồm thiệt hại hiện tại và sắp tới mà G.ty phải chịu (nếu có)
+8.2. Xử lý bồi thường thiệt hại Việc xem xét, quyết định mức bồi thường thiệt hại phải căn cứvào lỗi , mức độ thiệt hại thực tế và hoàn cảnh thực tế gia đình, nhân thân và tài sản của người lao động. Trình tự; thủ tục, thời hiệu xử lý việc bồi thường thiệt hại được thực hiện quy đinh của pháp luật lao động hiện hành
+TMA Confidential
+@TMA Solutions, 2024
+Trang 10
+
+--- PAGE 11 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+Co *uoannn
+IL. TIỀN LƯƠNG & PHÚC LỢl
+Go Sma"
+Go Inno
+1. Chính sách lương anang Tãt cả nhân viên TMA sẽ được trả lương theo hình thức nsirar onona chuyển khoản vào tuần đầu tiên của tháng kế tiếp (ngày 5 của tháng kế tiếp). Vấn đề về lương bổng mang tính chất riêng tư của mỗi cá nhân nên không được tiết lộ bất cứ thông tin nào về lương bổng của mình và của người khác nếu không được phép. Cách thức tính lương được thực hiện như sau:
+hooneg voue eo
+Thu nhập thỏa thuận X số ngày làm việc thực tế 22 ngày
+Nhân viên sế được đánh giá và xét lại mức lương 01 lần trong 1 năm. Việc đánh giá se được thực hiện theo quy trình PA (Performance Appraisal) của công tỵ  Tuy nhiên, việc xét điều chỉnh tăng lương sẽ không được áp dụng đõi với nhân viên đã làm đơn xin nghỉ việc hoặc sắp nghỉ việc.
+2. Chế độ thưởng/phúc lợi 2.1. Tiền thưởng Tết: Tùy theo kết quả kinh doanh của cty tại thời điếm phát thưởng, tùy theo mức độ hoàn thành công việc của nhân viên theo đánh giá của quản lý doanh nghiệp; tùy vào thời gian đóng góp của nhân viên, Nhân viên có quá trình làm việc liên tục đủ 01 năm tại TMA sê được thưởng 01 tháng lương thực lãnh tương ứng với một năm làm việc. Mức lương áp dụng tính thưởng là mức lương thực lãnh tháng cuõi cùng của năm (tháng 12) không bao gồm các khoản phụ cấp KRD; phụ cấp điện thoại, Internet . và đã trừthuế TNCN Không khấu trừ gia cảnh khi tính thuế thu nhập cá nhân (theo quy định luật thuế Mức thưởng & điều kiện nhận thưởng: Nhân viên hiện làm việc tại TMA
+Cách tính tiền thưởng như sau: Tiền thưởng Tết được căn cứvào thu nhập của tháng 12 (thu nhập không có phần tăng lương trong đánh giá PA cuối năm được áp dụng từ tháng 1của năm tiếp theo) Tiền thưởng không bao gồm: KRD; Các khoản phụ cấp; Internet Không khấu trừ gia cảnh khi tính thuế thu nhập cá nhân (theo quy định luật thuế) .
+TMA Confidential
+@TMA Solutions, 2024
+Trang 11
+
+--- PAGE 12 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+Mức thưởng & điều kiện được nhận thưởng: Tại thời điểm phát thưởng, những nhân viên hiện tại đang làm việc tại TMA được nhận thưởng theo các diêu kiện sau: Đõi với nhân viên đã làm đủ 12 tháng của năm & không nộp đơn xin nghỉ việc: Tiền thưởng là 1 tháng thu nhập (không bao gồm chức vụ được ứng trước Acting chức vụ, KRD và Các khoản phụ cãp) và đã khấu trừthuế thu nhập cá nhân . Đõi với nhân viên đã làm đủ 12 tháng của năm & đã nộp đơn nghỉ việc: Tiền thưởng là 1 tháng thu nhập (không bao gồm chức vụ được ứng trước - Acting chức vụ, KRD và Các khoản phụ cấp) và đấ khấu trừ thuế thu nhập cá nhân. Đối với nhân viên đã ký Hợp đồng lao động chính chức với công ty nhưng làm không đủ 12 tháng của năm & không nộp đơn xin nghỉ việc: Tiền thưởng được tính theo tỷ lệ sõ ngày làm việc thực tế sau khi đẩ trừ các khoản trên & thuế thu nhập cá nhân. (VD: Vào làm việc 01/10/2020 và không nộp đơn xin nghỉ việc > được nhận thưởng Tết theo tỷ lệ số ngày làm việc thực tế của T10, T11 và T12) Sõ tháng làm việc thực tế X thu nhập tháng 12  100% Thuế TNCN 12 tháng Đối với nhân viên nghỉ thai sản: Tiền thưởng được tính theo thời gian làm việc trong năm sau khi đâ trừ các khoản trên & thuế thu nhập ca nhân. Đối với nhân viên đang nghỉ không lương: #Nhân viên làm đủ 12 tháng của năm , tiền thưởng Tết sẽ được nhận sau khi trở lại làm việc chính thức tại Công tỵ. "Nhân viên làm không đủ 12tháng của năm, tiền thưởng Tết sẽ được nhận sau khi trở lại làm việc chính thức 2 tháng tại Công ty. Ứng viên chưa qua thời gian thử việc với TMA tính đến thời điểm cuõi tháng 12 dương lịch thì không được xet để tính thưởng.
+Các trường hợp không được nhận thưởng:
+Nhân viên đang trong thời gian thử việc, chưa ký hợp đồng lao động chính thức với công ty tính đến 31/12 của nẳm đó. Nhân viên vi phạm kỷ luật công ty hoặc không được điều chỉnh tăng lương trong đánh giá PA cuối năm (do hiệu suất làm việc thấp) Nhân viên đã nộp đơn xin nghỉ việc và nhân viên nghỉ việc nhưng không làm đủ 12 tháng tính đến ngày 31/12 của năm đó. Nhân viên đã nộp đơn xin nghỉ việc làm đủ 12 tháng tính đến ngày 31/12 của năm đó nhưng không hoàn thành trách nhiệm bàn giao công việc.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 12
+
+--- PAGE 13 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+Phương thức nhận thưởng: Bằng hình thức chuyển vào tài khoản cá nhân hoặc tiền mặt (theo hình thức chuyển thu nhập hàng tháng) Mọi thắc mắc về cách tính thưởng vui lòng liên hệ P. Kế Toán  finance@tma. com.vn hoặc liên hệ điện thoại nội bộ số Ext. 5898 Lưu ý: Nhân viên vi phạm kỷ luật công ty; vi phạm thời gian thông báo thôi việc hoặc nhân viên vi phạm cam kết thời gian công tác với công ty sau khi hoàn thành nhiệm vụ tại nước ngoài được công ty chãp nhận (Không bao gồm 45 ngày thông báo thôi vỉệc) sẽ không được xét nhận bất kỳ hình thức khen thưởng nào từ công ty.
+2.2. Chương trình bảo hiểm Chăm Sóc Sức Khỏe Toàn Diện Cho Nhân Viên Hợp đồng bảo hiểm Về quyền lợi & điều kiện tham gia Thủ tục bảo lãnh viện chẳm sóc sức khỏe chương trình Bảo hiểm chăm sóc sức phí Công ty BH VBI căn toàn diện giữa TMA và khỏe VBI Care " Qui định sử dung, cứ 'thông tin Căn cước Công ty bảo hiểm ngân Qui trình bồi thường, Qui trình bảo công dân (CCCD) nên hàng Vietin Bank (VBI) lânh viện phí, Qui trình thanh toán khi đến bệnh viện (thuộc bẳt đầu hiệu lực từ ngày trước bồi thường sau, Hướng dẫn sử hệ thống bệnh viện bảo 01/05/2016, áp dụng dụng bảo hiểm và Phạm vi bảo hiểm lãnh viện phí) chỉ cân đối với nhân viên chính của Chương trình bảo hiểm chăm xUất trình CCCD. thức của TMA (đã qua sóc sức khỏe tham khảo trên intranet Đổi với trẻ em chua có thời gian thử việc và ký tại link https:/ /intranet.tma.com.vn/ giấy tờ tÙy thân có ảnh HĐLĐ) , không bao gồm shares/VBIHealthCare cần cung cấp Giấy khai nhân viên đã gửi đơn và Danh sách hệ thõng bảo lấnh viện sinh, Số định danh và xin nghỉ việc đến Phòng phí trên app của VBI tại link: https:// giấy tờtùy thân có ảnh Nhân sự: myvbi.vn/tien-ich/benh-vien-bao - của người giám hộ. lanh-vien-phi
+Lưuý cung cãp chính xác số điện thoại của người được bảo hiểm hoặc người giám hộ cho bệnh viện để nhận tin nhẳn thông báo kết quả xác nhận bảo lanh viện phí. Lưu ý tham khảo Danh sách bệnh viện nằm trong hệ thõng bảo lãnh viện phí trưởc đi thăm khám và cung cãp chính xác thông tin tên Công ty bảo hiểm Ngân hàng Vietin Bank (VBI Care) cho bệnh viện Để việc hoàn tất thủ tục bảo lãnh viện phí chính xác và nhanh nhất, vui lòng kiếm tra lại thông tin CCCD cá nhân trên Intranet TMA- Nếu có thay đổi vui lòng gửi thông tin kèm file hình CCCD cập nhật đến cho Thanh Lê theo email: lttthanh@tma.com.vn
+TMA Confidential
+@TMA Solutions, 2024
+Trang 13
+
+--- PAGE 14 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+Đối với trường hợp đi khám chữa bệnh tại các bệnh viện không nằm trong hệ thống bảo lãnh viện phí, sẽ tựtúc thanh toán chi phí khám chữa bệnh trưởc và tập hợp các chứng từ tài chính và chứng từy tế để chuyển sang bảo hiểm VBI Care xét duyệt chi trả bồi thường sau. Bảo hiểm VBI Care có thay đổi phạm vi quyền lợi bảo hiểm của Nhóm nhân viên về Chi phí điều trị ngoại trú do õm dau, bệnh tật, thai sản: Giới hạn số lần khámInăm: 7 lần/năm (áp dụng với tất cả các lần khám liên quan đến bệnh, thai sản, nha khoa). Sõ tiền chi trả tối dal lần khám: 2.500.000 VNĐIlần, không quá STBH tõi đa của mỗi hạng mục. Đây là chương trình phúc lợi của công ty dành cho những nhân viên đang làm việc và gẳn bó với TMA. Phí bảo hiểm đã đóng sẽ không được hoàn lại khi nhân viên nghỉ việc. Vì vậy, khi nhân viên nghỉ việc tại TMA sẽ không tiếp tục tham gia chương trình này; đồng thời được yêu cầu hoàn lại phần giá trị còn lại của phí BHnhư sau:
+Trong quá trình tham gia bảo hiểm, nếu đã có phát sinh yêu cầu bồi thường thì khi nghỉ việc, nhân viên có trách nhiệm phải thanh toán phí bảo hiểm của những tháng còn lại cho Công ty.
+Khi chưa phát sinh bồi thường trong quá trình tham gia bảo hiểm thì khi nghỉ việc nhân viên sê không phải trả lại phí cho Công ty.
+Đặc biệt đối với nhân viên có mua bảo hiểm cho người thân thì người thân cũng sẽ không được tiếp tục tham gia chương trình BH này khi nhân viên nghỉ việc và không được hoàn lại phí.
+Bảo hiểm cho người thân: (Áp dung từ 15 ngày tuổi dến 70 tuổi) Phí Bảo hiểm đóng 1 lần (trước ngày 10/05 của hiệu lực HĐ năm đó) và không được thay ' đổi hay hoàn lạivì bãt kỳ lý do nào sau khi đã được xác nhận đăng ký mua thành công và trong suõt thời gian tham gia bảo hiểm. Mức phí BH áp dụng cho người thân nhân viên mỗi năm se được thông báo cụ thể đến mọi người bằng email. Bảo hiểm VBI Care có thay đổi phạm vi quyền lợi bảo hiểm của Nhóm ngườỉ nhà nhân viên về Chi phí điều trị ngoại trú do õm đau, bệnh tật, thai sản: Giới hạn số lần khámInăm: 7 lần/năm (áp dụng với tất cả các lần khám liên quan đến bệnh, thai sản, nha khoa). Sõ tiền chi trả tối đallần khám: 2.500.000 VNĐIlần, không quá STBH tõi đa của mỗi hạng mục Tham khảo chi tiết về qui trình bồi thường và phạm vi bảo hiểm của chương trình bảo hiểm chăm sóc sức khỏe qua email HR thông báo ngày 25/04/2025 .
+TMA Confidential
+@TMA Solutions, 2024
+Trang 14
+
+--- PAGE 15 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+2.3. Mức phụ cấp khi thăng chức (KRD) ~ PA: Để ghi nhận nỗ lực đảm đương các trách nhiệm mới khi nhân viên thăng chức; công ty điều chỉnh mức phụ cấp khi thăng chức Phụ cấp thăng chức (KRD) được xem xét & phê duyệt theo từng quí. Phụ cấp này se không còn hiệu lực ngay tại thời điểm nhân viên được hưởng phụ cãp nộp dơn xin thôi việc.
+2.5. Chính sách cho vay tiền với lãi suất 0% cho các trường hợp khẩn cấp: Áp dụng đối với tất cả nhân viên đang làm việc tại TMA từ đủ 01 nẳm trở lên có nhu cầu tài chính khẩn cấp với mức lãi suất 0%. Điều kiện tham gia, qui trình xét duyệt hồ sơ vay tiền và các biểu mẫu, giấy tờ liên quan - Xem chi tiết trên trang Popular Resources  TMA Intranet hoặc ~ https://intranet.tma.com.vnldownload/Finance/1-CHINH_SACH_CHO_VAY_TIEN.docx
+2.6. Các chế độ khác: Khi có yêu cầu, công ty sẽ cung cãp dich vụ ADSL để hỗ trợ khi làm việc tại nhà và chi phí điện thoại di động cho các cấp quản lý tạo điều kiện thuận lợi trong việc liên lạc với khách hàng và nhân viên công ty Ngoài ra, để khuyẽn khích nhân viên đến làm việc tại Tòa nhà TMA ~ Khu công viên phần mềm Quang Trung, từtháng 11/2013 công ty hỗ trợ nhân viên công tác tại tòa nhà TMA với 03 mức hỗ trợ khác nhau căn cứ vào nơi đăng ký thường trú/tạm trú. Chính sách này chỉ được áp dụng với các nhân viên cũ của TMA đang làm việc tại Lab 5, Lab 6 & nhân viên chuyển từ các Labs Phú Nhuận xuõng làm việc tại Lab 5 & Lab 6. Không áp dụng dõi vởi nhân viên mới vào làm việc tại TMA từ 'ngày 01/08/2013
+TMA Confidential
+@TMA Solutions, 2024
+Trang 15
+
+--- PAGE 16 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+3. Tang, hôn, hiếu, hỷ Kết hôn: Trường hợp 02 nhân viên của TMA tổ chức kết hôn với nhau: được công ty tặng quà chúc mừng có giá trị tương đương với số tiền từ 2.000.OOOVNĐ đến 10.000.OOOVNĐ (tính chung cho cả hai người) theo thứtựtừ 01 đến 05 (thời hạn tính: từ 01/01 -31/12 của mỗi năm). Quy định cụ thể như sau:
+Cặp 1
+Cặp 2
+Cặp 3
+Cặp 4
+Cặp 5
+2.000.000 VNĐ
+4.000.000 VNĐ
+6.000.000 VNĐ
+8.000.000 VNĐ
+10.000.000 VNĐ
+Sau cặp đôi thứ 05 của năm đó, quà mừng cưới được áp dụng trở lại theo thứtự ban đầu tử cặp thứ nhất. Và thứ tự này sê được áp dụng lại từ đầu cho năm tiếp theo theo thứtựtừ 01 đến 05. Kết hôn: Nhân viên được nghỉ 3 ngày Lưu ý: các đôi bạn gửi mail thông báo đến P. Nhân sự qua email hr@tma.com.vn ít nhãt 03 ngày trước lễ kết hôn để công ty chuẩn bị quà chúc mừng và được xác nhận cụ thể thứtự cặp đôi nhận quà mừng từ công ty.
+Tang chế: Khi một trong những thành viên sau trong gia đinh nhân viên mất công ty sẽ hỗ trợ một khoản tiền cho việc tang lễ tương đương 1.500.000 VNĐ bao gồm tiền mặt + hoa phúng điếu: Cha mẹ (cả bên chồng và bên vợ) , vợ hoặc chồng hoặc con cái. Bố mẹ, vợ hoặc chồng, con chết: Được nghỉ 03 ngày
+4.Thể thao và giải trí Tất cả nhân viên đựơc khuyến khích tham gia các hoạt động thể thao; vui chơi giải trí do công ty tổ chức. Picnic nhân ngày kỷ niệm ngày thành lập công ty Thi đấu thể thao, văn thể mỹ giao hữu giữa các dự án Các chương trình nhân đạo: Terry fox, hiến máu nhân đạo, từ thiện quyên góp cho đồng bào bị thiên tai lũ lụt Câu lạc bộ: Toastmatter; T - music...
+TMA Confidential
+@TMA Solutions, 2024
+Trang 16
+
+--- PAGE 17 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+5. Khám sức khỏe hàng năm Tất cả nhân viên của TMA yêu cầu khám sức khỏe định kỳ hàng năm theo quy định của pháp luật
+6. Bảo hiểm xã hội, bảo hiểm ytế và bảo hiểm thất nghiệp Nhân viên được hưởng chế độ BHXH và BHYT theo quy định hiện hành của Nhà nước CHXHCN Việt Nam. BHXH: Hàng tháng, nhân viên được công ty đóng bảo hiểm xã hội theo qui định. Mỗi nhân viên được cấp một sõ BHXH do cá nhân quản lý bằng ứng dụng VssID. BHYT: Hàng quí, nhân viên được công ty dóng BHYT và đăng ký cơ sở khám chữa bệnh tại những địa điểm thuận tiện cho nhân viên. Khi đi khám chữa bệnh, nhân viên phải xuất trình thẻ BHYT do công ty cấp. Nhân viên được quỹ BHXH trả 75% lương cho những ngày nghỉ vì những bệnh bình thường và 100% lương cho những ngày nghỉ điều trị tai nạn lao động, bệnh nghề nghiệp.
+7.Cơ sởvật chất 7.1. Bàn làm việc và tủ cá nhân Mỗi nhân viên đều được trang bị tủ cá nhân tại nơi làm việc. Đõi với các vấn đề liên quan đến tủ cá nhân, nhân viên liên hệ với bộ phận hành chánh để được hỗ trợ Tài liệu, thông tin kỹ thuật, tư trang cá nhân phải được xếp đặt ngăn nẳp trong các ngăn tủ cá nhân. Không cất giữ số tiền lớn, tưtrang có giá trị tại nơi làm việc để đảm bảo vãn đề an ninh Công ty sẽ không chịu trách nhiệm về những mất mát liên quan đến những vãn đề đã nêu trên.
+7.2. Thư viện ~ phòng họp, huấn luyện
+Thưviện công ty được đặt tại trụ sở chính của công ty. Khi có nhu cầu tra cứu, tham khảo và mượn sách trong thưviện, nhân viên phải tuân thủ theo qui định của thư viện. Giử gin, bảo quản và giao trả sách đúng thời hạn được yêu cầu. Phòng họp & đào tạo: được trang bị những thiết bị hỗ trợ như máy tính, máy chiếu_ Khi có nhu cầu sử dụng, nhân viên phải đăng ký sử dụng theo hướng dẫn trên Intranet.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 17
+
+--- PAGE 18 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+III. QUY ĐỊNH VỀ NGÀY NGHỈ 1 . Nghỉ lễltết Nhân viên được hưởng nguyên lương trong những ngày nghỉ lễ sau:
+Tẽt dương lịch: 01 ngày (ngày 01 tháng 01 dương lịch) Tết âm lịch: 05 ngày (một ngày cuõi năm và bốn ngày đầu năm âm lich) Ngày giỗ tổ Hùng Vương: 01 ngày (ngày 10 tháng 3 âm lịch) Ngày chiến thẳng: 01 ngày (ngày 30 tháng 04 dương lịch) Ngày quõc tế lao động: 01 ngày (ngày 01 tháng 05 dương lịch) Ngày quõc khánh: 02 ngày (ngày 02 tháng 09 dương lịch và 01 ngày liền kề trước hoặc sau theo quy đinh của pháp luật lao động)
+Trường hợp những ngày lễ trên trùng vào ngày thứ bảy và chủ nhật thì nhân viên sế được nghỉ bù vào các ngày tiếp theo. Không sử dụng ngày phép nám để nghỉ bẳt cầu trong các kỳ nghỉ lễ trong năm
+2. Nghỉ phép năm Nhân viên làm việc liên tục 12 tháng trong một năm được nghỉ 12 ngày phép năm hưởng nguyên lương. Riêng nhân viên làm việc lâu năm thì cứ mỗi 5 (năm) năm làm việc cho TMA được cộng thêm 01 ngày nghỉ phẻp. Trường hợp Nhân viên chưa làm việc đủ 12 tháng thì ngày nghi hàng năm được tính tương ứng với sỗ tháng làm việc trong năm; Chỉ tính phép năm cho những nhân viên đã ký hợp đồng lao động chính thức. Nguyên tẳc làm tròn: Nhân viên làm việc kể từ ngày thứ 16 trở đi thì mới được tính là một tháng và tương đương với 01 ngày phép: Trường hợp từ ngày thứ 15 trở xuõng thì không được tính. Trường hợp nhân viên không nghỉ hết phép năm cũ thì sẽ được chuyển dồn sang năm mởi nhưng số phep này phải được sử dụng trưởc tháng 03 dương lịch năm sau và tổng sõ ngày phẻp tồn không quá 24 ngàỵ Trường hợp xin nghi phép dài ngàỵ; phải thông báo với nhân sự trước 03 ngày và phải được sự chấp thuận của cán bộ quản lý trực tiếp. Tổng số ngày nghỉ phẻp tối đa cho một lần xin phép là 05 ngày và không liên tục.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 18
+
+--- PAGE 19 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+3. Nghỉ bệnh Trường hợp nhân viên vắng mặt do bị bệnh hoặc các rủi ro tai nạn phải có giấy khám chữa bệnh của cơ quan ytẽ có thẩm quyền cấp và phải được phê duyệt bởi Giám đõc nhân sự. Số ngày phép tối đa cho trường hợp nghỉ bệnh không quá 02 ngày và không quá 04 ngày đối với trường hợp rủi ro tai nạn*.
+4. Nghỉ thai sản Áp dụng theo qui định của chính phủ. Nhân viên nữ được nghi thai sản 06 tháng. Trường hợp sinh đôi trở lên thì tính từ con thứ hai trở đi, cứ mỗi con, người mẹ được nghi thêm 01 tháng. Trong thời gian nghi thai sản, lao động nữ được hưởng chế độ thai sản theo quy đinh của pháp luật về BHXH. Trường hợp trở lại làm việc muộn hơn thời gian nghỉ thai sản phải thông báo và được sự chấp thuận của người quản lý trực tiếp hoặc Giám đốc ít nhất trưởc 10 ngày tính từ ngày kết thúc kỳ nghỉ thai sản. Những ngày nghỉ thêm này không vượt quá 30 ngày và được xem như là nghỉ không hưởng lương Nhân viên nam đang đóng BHXH khi vợ sinh con được nghỉ việc hưởng chế độ thai sản như sau:
+05 ngày làm việc; 07 ngày làm việc khi vợ sinh con phải phẫu thuật, sinh con dưới 32 tuần tuổi; 10 ngày làm việc nếu sinh đôi , sinh ba trở lên cứ mỗi con thì nghỉ thêm 03 ngày làm việc; 14 ngày làm việc nếu sinh đôi trở lên mà phải phẫu thuật:. Thời gian nghỉ này được tính trong khoảng 30 ngày đầu kể từ ngày vợ sinh con.
+5. Các loại phép khác 5.1. Nghỉ về việc riêng Nhân viên được nghỉ về việc riêng mà vẫn hưởng nguyên lương trong những trường hợp sau: Kết hôn : nghi 03 ngày Con kết hôn : nghi 01 ngày Nhân viên phải thông báo cho Trưởng phòng/ban hoặc cấp tương đương và Giám Đõc biết trước kế hoạch và phải gửi email đơn xin nghỉ đến hr@tma.com.vn. Bố mẹ (cả bên chồng và bên vợ) chết; vợ hoặc chồng chết; con chết: nghỉ 03 ngày.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 19
+
+--- PAGE 20 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+5.2. Nghỉ việc riêng không hưởng lương, nghỉ đột xuất: Khi nhân viên có nguyện vọng xin nghỉ không hưởng lương vởi lý do chính đáng thì phải cÓ Sự đồngý của cấp trên và được phê duyệt bởi Giám đõc Nhân sự. Thời gian nghỉ không hưởng lương tùy thuộc vào sựthỏa thuận của 02 bên nhưng không được nghỉ quá 60 ngàỵ. Nhân viên có thể vắng mặt khi có tình huống khẩn cấp (có người thân qua đời hoặc bị bệnh nặng mà họ cần có mặt ngay lập tức, vì lý do ốm đau hoặc lý do chính đáng khác). Nhân viên vẳng mặt trong các trường hợp nêu trên mà không xin phép trưởc được thì phải thông báo ngay cho Trưởng phòng/ban, đơn vị, Giám đốc bằng điện thoại vào ngày vẳng mặt và thông báo bổ sung với P. Nhân Sự ngay sau khi đi làm. Nếu nghỉ ốm hoặc con ốm mẹ nghỉ phải có đầy đủ thủ tục của cơ sở Ytế có thẩm quyền theo quy định Nhân viên vẳng mặt không thuộc các trường hợp quy định tại điều 5.1 mà được Giám đốc chãp thuận sê được xem là nghỉ phép năm. Trường hợp nhân viên nghỉ việc mà không có lý do chính đáng như quy định tại điều 5.1, chưa thông báo cho trưởng phòng/ban , đơn vị biết, chưa được Giám đốc chấp thuận sẽ bị coi là nhân viên tựý nghỉ việc không có lý do chính đáng .
+6. Chuyên cần Việc vẳng mặt đột xuất bởi nhiều lý do khác nhau phải được thông báo cho cấp trên trực tiếp trong thời gian sởm nhãt có thể, trưởc 09 giờ sáng. Mọi sựvẳng mặt đột xuất phải có lý do chính đáng, được sự chấp thuận của cấp trên và thông báo cho P. Nhân Sự để trừ ngày phép năm theo qui định Tất cả mọi sự 'vắng mặt của nhân viên trong giờ làm việc khỏi nơi công sở đều phải có sự báo cáo và đồng ý của cấp trên. Trường hợp nhân viên tựý bỏ việc năm (05) ngày cộng dồn liên tục mà không có lý do chính đáng sẽ bị xử lý kỉ luật sa thải theo qui định theo Khoản 1 Điều 36 Bộ luật Lao động 2019 Nhân viên phải đảm bảo việc đến công sở đúng giờvà tuân thủ các quy định về ngày nghỉ để đảm bảo tiến độ công việc được hoàn thành theo kế hoạch đã được lập từtrước
+TMA Confidential
+@TMA Solutions, 2024
+Trang 20
+
+--- PAGE 21 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+IV.ĐÀO TAO VÀ PHÁT TRIỂN
+Trong quá trình làm việc, công ty tổ chức bồi dưỡng nâng cao trình độ chuyên môn nghiệp vụ khi có yêu cầu đầu tư hoặc thay đổi công nghệ.
+1. Đào tạo nội bộ Trong thời gian thửviệc, nhân viên được tham gia các khóa huấn luyện về định hướng nhân viên mỞi Orientation training (HRIAdmin policy; Introduction Company) , về cơ sở hạ tầng và bảo mật Security/Infrastructure training. TMA tổ chức các khóa huãn luyện hàng năm dựa trên bản phân tích nhu cầu đào tạo và kết quả đánh giá hoàn thành công việc  PA (Performance Appraisal) hoặc dựa trên những yêu cầu của từng dự án. Nội dung đào tạo bao gồm việc trang bị những kỹ năng tổng quát cho tất cả nhân viên và kỷ năng chuyên sâu cho từng bộ phận ~ phòng ban. Tất cả các chương trình đào tạo được Giám đõc điều hành khõi nhân sự phê duyệt. Phòng đào tạo sẽ thông báo các chương trình đào tạo cho các trưởng bộ phận và các thành viên tham gia.
+2. Đào tạo bên ngoài TMA Trong trường hợp Bộ phận đào tạo của công ty không cung cấp được tất cả các khóa học theo yêu cầu, bộ phận đào tạo sẽ mời các nguồn đào tạo bên ngoài để phõi hợp tổ chức hoặc cử nhân viên tham gia các chương trình đào tạo bên ngoài công ty. Công ty hỗ trợ chi phí đào tạo hàng năm theo cãp bậc quản lý như sau:
+Manager
+Senior Manager
+Director
+Vice-President
+5.300.000 VNĐ/năm
+10.600.000 VNĐInăm
+15.900.000 VNĐnăm
+21.200.000 VNĐInăm
+3. Đào tạo ở nuớc ngoài Dur porsion Cắn cứ kế hoach phát triển công ty; nhân viên sẽ được tham gia các chương trình đào tạo, s t huãn luyện ở nước ngoài. TMA & nhân viên sẽ ký bản thỏa thuận/ tl cam kết liên quan đến quyền và nghĩa vụ của cả 02 bên, và 02 bên có trách nhiệm thi hành thỏa thuận/cam kết này.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 21
+
+--- PAGE 22 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+4. Đánh giá thành tích nhân viên Hàng năm TMA tổ chức đánh giá thành tích nhân viên 01 lân vào tháng 12 dương lịch. Điều kiện để nhân viên đựợc tham gia chương trình đánh giá: Nhân viên đâ làm việc tại TMA từ đủ 07 tháng trở lên và bắt đầu công tác tại TMA trong tháng 04 cùng nẳm trở về trước. Mục đích của hoat động đánh giá thành tích nhân viên nhằm: Đánh giá mức độ hoàn thành công việc của nhân viên dựa trên cơ sở mục tiêu đâ được xây dựng từtrước bởi nhân viên và cấp trên trực tiếp hoặc cấp cao hơn. Xác định mục tiêu cho những lần đánh giá tiếp theo. Đánh giá lại các ky năng, khả năng đã được đặt ra ở kỳ đánh giả trước Đánh giá lại thái độ làm việc trong công việc, tinh thần hợp tác, tính cam kết vởi công ty, các vấn đề quan hệ với các thành viên trong tổ chức. Tăng cường tõi đa cơ hội để nhân viên có khả năng phát triển, khẳng định tài năng của mình và khai thác những tiềm năng đồng thời khẳc phục và hạn chế những điểm yếu. Làm cho nhân viên hội nhập và gẳn bó vởi tổ chức, cùng chia sẽ những quan điểm, nguyện vọng, bày- 'tỏ ý kiến của nhân viên liên quan đến công việc. Là cơ sở để đánh gia trong việc thẳng tiến, thưởng, đãi ngộ Duy trì và khuyến khích cho những thành tích vượt trội Là cơ sở để phân tích các yêu cầu đào tạo để phát triển đội ngũ nhân lực. Cải thiện hiệu năng làm việc và thông tin phản hồi. Phát triển tài nguyên nhân sự. Đối với nhân viên có kết quả đánh giá từ 1 đến 5 sẽ không được xét tăng grade, thăng chức, KRD; điều chinh thu nhậpvà các chính sách khen thưởng khác sau kỳ PA. Tham gia chương trình đánh giá thành tích là nghĩa vụ và quyền lợi của nhân viên. Đối với những nhân viên không vượt qua được kỳ đánh giá này thì đó là cơ sở để công ty xem xét việc chấm dứt hợp đồng lao động với nhân viên đó.
+Qui trình đánh giá chi tiết vui lòng tham khảo tại link https://pa.tma.com.vn/Schedule/ViewSchedule https://pa.tma com.vn/Schedule/CareerPath https://pa.tma.com.vn/Schedule/EnglishTestGuideline
+TMA Confidential
+@TMA Solutions, 2024
+Trang 22
+
+--- PAGE 23 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+TMA s 0/ utl ns
+Chương II
+CÁC ĐIỀU KIÊN VÀ QUY ĐỊNH BẢO MẬT
+TMA Confidential
+@TMA Solutions, 2024
+Trang 23
+
+--- PAGE 24 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+1CÁC ĐlỀU KIÊN
+1.Thẻ nhân viên Khi trở thành thành viên của TMA, nhân viên sẽ được công ty cãp thẻ tạm thời. Thẻ chính thức sẽ được cãp trong tuần đầu làm việc. Thẻ nhân viên phải được đeo đúng cách giúp cho nhân viên cảm thấy thuận tiện đồng thời khách hàng và các nhân viên khác có thể nhận thấy một cách dễ dàng. Luôn đeo thẻ nhân viên trước ngực bên trái (đối với thẻ dùng kẹp) và đeo ở giữa ngực (đối với thẻ sử dụng dây deo cố) Tất cả các thẻ trên là tài sản của công ty; khi chãm dứt Hợp đồng lao động, nhân viên phải hoàn trả toàn bộ số thẻ này cho bộ phận nhân sự công tỵ
+IMA
+2. Tác phong làm việc Trang phục gọn gàng, thích hợp với môi trường công sởvà phù hợp với thuần phong mỹ tục của người Việt Nam sao cho có ảnh hưởng tích cực trong công việc, nâng cao hình ảnh của công ty với khách hàng và những người xung quanh đồng thời giúp chúng ta luôn tự tin trong giao tiếp. Đối với nam: Khuyến khích mặc quần tây và á0 sơ- mi bỏ vào trong quần, mang giày công sở hoặc dep có quai hậu. Đối với nữ: Khuyến khích mặc á0 sơ-mi, quần tây hoặc váy công sở, mang giày hoặc dép có quai hậu. Luôn đeo thẻ đúng quy định
+Chấp hành nghỉêm chỉnh các quy định về bảo vệ an ninh trật tự; quy định về an toàn và vệ sinh lao động, phòng chõng cháy nổ đã ban hành; Không nói to gây ồn ào, làm mãt trật tự, lời nói thiếu văn hoá tại nơi làm việc; Không được đến nơi làm việc trong tình trạng say rượu, bia hoặc các chất kích thích khác
+TMA Confidential
+@TMA Solutions, 2024
+Trang 24
+
+--- PAGE 25 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+3. Quy ước xử sự 2 giao tiếp trong công ty 3.1. Quy ước xử sự TMA luôn đề cao các thành viên trong công ty ứng xử và xử sự theo chiều hướng tích cực, thể hiện ở một số điểm sau: 1 . Mọi thành viên luôn tỏ thái độ lịch sựvà nhã nhặn trong giao tiếp, trong cử chỉ và cả trong hành vi 2. Luôn tôn trọng tất cả mọi người, các bộ phận, phòng ban mà không phân biệt công việc hay trách nhiệm họ đang đảm trách. Luôn giữ thái độ đúng mực trong quan hệ công việc với các đồng nghiệp. Xây dựng môi trường làm việc lành mạnh, năng động, hiệu quả. 3. Cưxử đúng mực nơi công cộng 4. Chân thành khi góp ý với đồng nghiệp và nên góp ý một cách trực tiếp. Không được có thái độ phát ngôn thiếu tôn trọng ảnh hưởng đến uy tín. 5. Không gây mất đoàn kết trong nội bộ phòng ban hoặc với các nhóm hay bộ phận khác. 6. Trình bày các thắc mẳc liên quan đến các chính sách, chế độ, quy định đến đúng bộ phận, phòng ban liên quan trong công ty. 7.Ý thức trong việc giữ gin tài sản chung và giữ gìn vệ sinh chung trong công ty. 8. Thận trọng trong giao tiếp và xử lý công việc có liên quan đến nhiều người. 9. Trong quan hệ với khách hàng và đối tác phải nói nắng ứng xử nhã nhặn, cầu thị, tuyệt đối không gây phiền hà, sách nhiễu; phải tính đúng, thu đủ tất cả các khoản, không thu thêm, thu thừa tiền của khách hàng; không lạm dụng quyền hạn và chức vụ hoặc sử dụng tài sản của Công Ty để tư lợi hoặc vì mục đích cá nhân.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 25
+
+--- PAGE 26 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+3.2. Giao tiếp bằng email trong công ty Email là phương tiện chủ yếu và quan trọng để giao tiếp, truyền thông và giải quyết công việc trong công ty. Chúng ta phải sử dụng, khai thác đúng cách và hiệu quả nguồn tài nguyên này. Do email có liên quan trực tiếp đến vấn đề về bảo mật thông tin nên việc sử dụng nguồn tài nguyên nay 'phải tuân theo những quy định sau đây.
+Không được sử dụng Email để gởi bất cứtài liệu bí mật hoặc những thông tin mang tính chất nội bộ của TMA ra bên ngoài ("bên ngoài" được hiểu là bất cứ địa chỉ Email nào ngoài hệ thõng Email nội bộ của công ty) Không được gởi những thông tin thuộc về dự án mình đang làm việc ra bên ngoài hoặc thậm chí qua bất cứ dự án hay phòng ban nào khác trong công ty nếu không được sự đồng ý bằng email hay văn bản của cấp quản lý. Không được dùng Email của công ty để thực hiện những công việc mang mục đích cá nhân của mình hoặc bàn luận về những chuyện liên quan đến chính trị, tôn giao, giới tính . Không được sử dụng Email công ty để gởi thông tin có chủ ý làm phiền, gây rõi, lừa dõi, chỉ trích, xúc phạm người khác Không được sử dụng Email công ty để chia sẻ những thông tin mang tích chất nhạy cảm cá nhân của mình với bộ phận nhân sự cho những người khác. Không được gởi Email mạo danh người khác. Không được dùng Email để can thiệp đến vấn đề nội bộ của một nhóm/ bộ phận khác trong công tỵ Những trường hợp vi phạm các quy định trên se bị công ty xử lý kỷ luật một cách xác đáng.
+3.3. Giao tiếp qua điện thoại Điện thoại của công ty chỉ sử dụng cho mục đích công việc của công ty, trong trường hợp cần liên hệ công việc của cá nhân mang tính chất cấp bách thì phải đuợc sự đồngý của cãp quản lý trực tiểp. Khi giao tiếp qua điện thoại cân trao đổi thông tin ngắn gọn và súc tích đủ để người đối thoai nẳm bẳt vấn đề trong một thời gian ngẳn nhất, đặc biệt là những cuộc điện thoai ra bên ngoài và cho thuê bao di động. Mục đích của việc trao đổi thông tin qua điện thoại là đạt hiệu quả với chi phí thấp nhất . Việc nhân viên vi phạm có thể sẽ bị truy cứu và xử lý kỷ luật. Tuyệt đối không tiết lộ thông tin bí mật của dựán hay của công ty qua đường điện thoại Không được dùng đường điện thoại của công ty để kết nõi (dial up) ra bên ngoài nếu không được sự đồng ý của cấp trên và Trưởng Phòng Bảo Mật Thông Tin của công ty
+TMA Confidential
+@TMA Solutions, 2024
+Trang 26
+
+--- PAGE 27 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+4. Mang hàng hóa ralvào công ty Khi có nhu cầu mang hàng hóa, vật dụng ra hay  vào công ty vì những lý do công việc khác nhau, cá nhân/ bộ phận liên quan đều phải hoàn tất các biểu mẫu hợp lệ có liên quan. Tất cả mọi tài sản của TMA khi mang ra ngoài phạm vi của công ty đều phải tuân thủ theo quy định về xuất -  nhập và phải được phê duyệt theo đúng thẩm quyền
+5. Nguyên tắc xử lý tài liệu Tãt cả các tài liệu cần hủy bỏ liên quan đến vấn đề bảo mật thông tin của TMA đều phải được xử lý trước khi chuyển ra bên ngoài. Các tài liệu liên quan bảo mật dưới dạng giấy tờ, văn bản, CD hay DVD phải được hủy bằng máy hủy giấy trưởc khi chuyển thành rác, nếu là bẳng từ phải chuyển cho phòng Bảo mật thông tin xử lý. Trong trường hợp bạn cần xác nhận thông tin nào được xem là tài liệu liên quan đến vãn đề bào mật, hãy tham khảo cấp trên trực tiếp của bạn.
+6. Nguyên tẳc an ninh 1 . Không được mang vào trong khu vực trạm biến áp và các khu vực khác theo quy đinh của Công Ty những vật liệu dễ cháy nổ, vũ khí hay vật dụng có thể gây nguy hiểm đến tính mạng con người 2. Không được sử dụng, phân phõi, mua bán hoặc lưu giữ các chãt ma túy chất kích thích thần kinh và thậm chí cả các loại thuõc được xem là không vì mục tiêu y tẽ hợp pháp. 3. Không được đem các tài liệu, sách vở; phim ảnh hay những vật dụng có nội dung liên quan đến văn hóa phẩm đồi trụy hoặc có nội dung tuyên truyền, chõng đối nhà nước Việt Nam. 4. Không được gây thiệt hại cho Công Ty hoặc người lao động khác do phạm tội, hành vi phân biệt đõi xử, hành vi trái pháp luật, trái đao đức; 5.Cá nhân không mang vào công ty các thiết bị ghil sao chép dữ liệu như: thẻ nhớ (USB sticks) , đỉa cứng di động (removable hard disks), băng từ (removable tape drives) , điện thoại di động có chụp hình (camera phones) . khi chưa có sự cho phẻp của người quản lý có liên quan. Trường hợp khách của công ty; người quản lý có liên quan là người mời khách đến TMA phải tuân thủ quy trình GAA (Guest Access Authorization) . 6 Không tổ chứcIthực hiện mua bán hàng online và giao nhận hàng hóa cá nhân trong giờ làm việc. Tất cả các hành vi vi phạm nguyên tẳc an ninh trên sẽ được xử lý theo quy định của công ty và thậm chí phải chịu trách nhiệm trước pháp luật.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 27
+
+--- PAGE 28 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+7 . Kiểm tra an ninh Để đảm bảo nguyên tẳc bảo mật thông tin cho khách hàng và tài sản của TMA, tất cả mọi nhân viên của TMA có thể bị nhân viên bảo vệ kiểm tra vào bất cứ lúc nào nhằm đảm bảo vấn đề an ninh. Mọi nhân viên phải tuân thủ yêu cầu của bảo vệ về việc kiểm tra an ninh. Tất cả các hoạt động kiểm tra an ninh của bảo vệ phải được thực hiện đúng cách và tuân thủ theo quy định của công ty và của pháp luật và chi thực hiện trong trường hợp cần thiết.
+8.Thất lạc tài sản cá nhân = hoàn trả Bộ phận Hành Chánh và bộ phận An Ninh của công ty chịu trách nhiệm duy trì các hoạt động nhẳm giúp đỡ cá nhân đánh rơi tài sản có nhu cầu tìm kiếm. Việc này được thực hiện như sau: Trong trường hợp nhân viên nhặt được vật đánh rơi: giữ nguyên tinh trạng của vật bị đánh rơi và nhanh chóng chuyển về Phòng Hành Chánh để tìm lại chủ sở hữu. Trong trường hợp nhân viên đánh rơi tài sản: hấy nhanh chóng báo về phòng Nhân sự hoặc Phòng Hành Chánh và bộ phận An Ninh để được hỗ trợ kịp thời. Bộ phận Nhân sựvà An ninh của công ty chỉ tìm cách hỗ trợ tìm kiếm mà không chịu trách nhiệm trong trường hợp tài sản đánh rơi không được tìm thấỵ
+Il. CÁC QUY ĐỊNHVỀ BẢO MẬT
+1. Sự cần thiết phải bảo mật thông tin Thông tin bí mật được qui định trong Điều 26, Chương 7 - NQLĐ. Bảo mật thông tin là điều kiện tối quan trọng trong kinh doanh của bất kỳ một công ty hay một tổ chức nào. Ở công ty TMA cũng vậy; vấn đề bảo mật thông tin là vấn đề sống còn của doanh nghiệp. Lĩnh vực chúng ta đang họat động là lĩnh vực kỹ thuật công nghệ cao và đặc biệt liên quan đến vấn đề về sở hữu trí tuệ, bản quyền. Hầu như toàn bộ các hoạt động và dịch vụ chúng ta đang kinh doanh đều liên quan đến tài sản của khách hàng. Việc bảo mật thông tin của khách hàng được đặt lên hàng đầu vì nó là quyền lợi của khách hàng và trên hết là uy tín của chúng ta. Việc có dành được lợi thế cạnh tranh với các công ty trong cùng một linh vực cũng xuãt phát từ vấn đề bảo mật thông tin.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 28
+
+--- PAGE 29 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+Như vậy việc bảo mật thông tin được hiểu theo hai ý nghia quan trọng là bảo mật thông tin cho chính chúng ta và bảo mật thông tin cho khách hàng và đối tác của chúng ta. TMA cố gắng đảm bảo an toàn và bảo mật nguồn tài nguyên công ty. Mọi nhân viên được yêu cầu tuân thủ các nội qui về bảo mật. Các cấp quản lý có trách nhiệm đảm bảo các qui định được tuân thủ nghiêm ngặt. Việc vi phạm nội qui công ty có thể bị kỷ luật tùy theo mức độ vi phạm
+2. Các nguyên tắc bảo mật thông tin Luôn thực hiện những nguyên tắc về bảo mật thông tin để đảm bảo chính sách an ninh bảo mật được thực hiện tốt và có hiệu quả: Luôn có ý thức trong việc bảo vệ tãt cả các tài sản của công ty. Tuân thủ theo chính sách và các quy định của công ty về vấn đề bảo mật thông tin. Bảo vệ những thông tin bí mật của công ty ngay trong nội bộ dự án hay ra bên ngoài (khi gởi Email, trao đổi thông tin, hội họp; chia sẻ dữ liệu .). Thông báo ngay cho bộ phận An ninh (Bảo mật thông tin) của công ty khi có bất cứ sựvi phạm hoặc những sựviệc xảy ra liên quan đến vấn đề bảo mật quan bằng điện thoại hoặc email: security@tma.com.vn Giữ nơi làm việc của bạn luôn được an toàn bằng cách: Không để các tài liệu, giấy tờ, đia CD; DVD, USB. có chứa đựng những thông tin mật của công ty ở nơi làm việc mà bạn không có mặt ở đó. Đảm bảo những vật dụng trên được cất kỷ lưỡng vào nơi có khóa an toàn khi bạn rời khỏi nơi làm việc. Khóa (lock) máy tính cá nhân bất cứ khi nào phải rời khỏi bàn làm việc. Cài đặt Password truy cập vào máy tính và các tài khoản của bạn theo tiêu chuẩn đâ được quy định. Sử dụng chương trình chõng virus và tường lửa cá nhân và cài đặt chúng được cập nhật liên tục, tức thời . Chi sử dụng những phần mềm và các thỉết bị do công ty cung cấp. Khi chưa rõ hoặc chưa hiều những quy định liên quan đến vấn đề bảo mật, hãy liên hệ với bộ phận An ninh hoặc cấp trên để được giải thích thêm
+TMA Confidential
+@TMA Solutions, 2024
+Trang 29
+FILE 'SECURITY
+
+--- PAGE 30 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+3. Quy định về bảo mật thông tin Công ty hoạt động, làm việc trên rất nhiều thông tin quan trọng liên quan đến các dự án của khách hàng và đối tác. Những thông tin này được yêu cầu bảo mật. Công ty đã rất cố gắng làm tốt và chúng ta đã nhận được nhiều khen ngợi và tín nhiệm của khách hàng. Khi làm việc tại công ty, nhân viên được tiếp cận với rất nhiều thông tin bí mật. Nên để đảm bảo sự bảo mật vào mọi lúc, nghiêm cãm tất cả nhân viên sử dụng hoặc trình bày các thông tin này đến các cá nhân, công ty; đõi tác, tổ chức khác với bất kỳ lý do hay mục đích gì trong suõt thời gian làm việc tại TMA, ngoai trừ khi được yêu cầu bởi cấp quản lý với mục đích mang lại lợi nhuận cho công ty
+01-97t Cwouo
+Vengw 121.228.103.43
+o  ,
+ms
+oe
+J07C
+250
+Công ty đánh giá cao phương pháp làm việc và tự nghiên cứu học hỏi của nhân viên và cho phép nhân viên mang tài liệu về nhà vởi mục đích nghiên cứu. Tuy nhiên các tài liệu được xem như thông tin bảo mật không được phép mang ra khỏi công ty khi chưa có sự phê duyệt của cán bộ quản lý trực tiếp. Nếu nhân viên không rõ tài liệu có liên quan đến thông tin bảo mật hay không phải hỏiý kiến của cán bộ quản lý. Nhân viên được yêu cầu thực hiện các biện pháp phòng ngừa trước khi chia sẻ thông tin bảo mật với một nhân viên khác trong công ty. Nhân viên được phép chia sẻ thông tin bí mật với cơ quan điều tra có trách nhiệm của Nhà Nưởc Việt Nam trong trường hợp có xảy ra hành vi vi phạm pháp luật liên quan, và việc chia xẻ thông tin đó phải được sự đồngý của cấp quản lý. Thông tin bí mật có thể là bản viết tay hay điện tử, bản in, thư điện tử, lời nói hoặc dưởi bất kỳ hình thức nào khác. Thông tin bảo mật liên quan đến các thông tin về báo cáo tài chính và kinh doanh, các sáng chế, dữ liệu, thông tin, tri thức, quy trình, thiết kế, công nghệ, kỹ thuật, chứng từ, danh sách khách hàng, thông tin của khách hàng, bảng giá, danh sách của nhà cung ứng, dữ liệu đền bù, các chiến lược liên quan đến nguồn lực, các dự án đề xuất sẳp tới, các kế hoạch riêng hoặc các chính sách và bất cứthông tin về hoạt động quản lý, tài chính, kế toán, hệ thõng kiểm soát, phần mềm máy tính, sơ sở dữ liệu, tiếp thị hoặc thuế có liên quan đến công việc kinh doanh của TMA hoặc của khách hàng hoặc những thông tin mà TMA xem là bảo mật Nhân viên vi phạm các qui định trên sẽ phải chịu các hình thức kỷ luật nghiêm khắc
+TMA Confidential
+@TMA Solutions, 2024
+Trang 30
+
+--- PAGE 31 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+4.Thư diên tử = email E-mail là công cụ rãt thuận tiện và dễ sử 'dụng trong trong việc truyền tải thông tin và vận hành với dung lượng lớn. Việc sử dụng khai thác Email phải tuyệt đối theo quy đinh của công ty để đảm bảo đúng mục đích sử dụng.
+5. Internet
+TMA cung cấp Internet nhằm hỗ trợ công việc của nhân viên. Tuy nhiên những mục đích sử dụng không được phép hoặc không cần thiết có thể gây nghẽn mạch và rủi ro cho vấn đề bảo mật, làm ảnh hưởng đến hoạt động của công ty và trao đổi thông tin với khách hàng. Vì vậy; việc đảm bảo tính bảo mật phải được mọi người lưuý hàng đầu Bảng tóm tắt các thao tác nhân viên được phẻp và không được phép làm nhằm mục đích bảo mật thông tin
+Mức độ ànhi TRONG GlỜ NGOÀI GlỜ hưởng (Thấp 7 LÀMVIỆC LÀMVIỆC trung binh  thiệt hei)
+STT
+HOAT ĐỘNG
+Sửdụng URLs cho các công việc có liên quan đến dự án, khách hàng
+Không
+Sử dụng URLs không liên quan đến công việc (Đọc báo điện tử, các trang giải trí, xem truyền hình trực tuyến, các chương trinh ca nhạc, thể thao, Facebook;
+2
+Trung bình
+Sử dụng URLs bị cấm sửdụng như qui định 3 sử dụng Internet của doanh nghiệp
+Cao
+Gửi email từ Web-base services (Gmail,Ya- hoo or..)
+Trung bình
+5
+Chat hoặc sử dụng chat rooms
+Trung bình
+Tin nhắn (e.g Skype,Telegram, Zalo; MS Messenger)
+Trung bình
+Trình chiếu, tàng trữ; lưu trư; phân phõi , chinh sửa hoặc sao chép các phim ảnh khiêu dâm
+Cao
+Thực hiện các hành vi bất hợp pháp vi phạm các nguyên tắt, luật lệ quốc gia và quóc tẽ
+8
+Cao
+TMA Confidential
+@TMA Solutions, 2024
+Trang 31
+
+--- PAGE 32 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+Phát tán virus, worm, Trojan horse hoặc trapdoor program code
+9
+Cao
+Tiẽt lộ thông tin bảo hộ (e.g. chat, 10 newsgroup. bảng thông tin, website)
+Cao
+Tải xuống các chương trình giải trí, game 11 hoặc chơi các game kết nối vởi các đối thủ khác trên Internet
+Cao
+Tải lên các phần mềm, dữ liệu hoặc bản quyền của doanh nghiệp khi không được ủy 12 quyền bởi cán bộ quản lý có trách nhiệm về software hoặc data.
+Cao
+Tải xuống các phần mềm không liên quan 13 đến yêu câu cho dựán của khách hàng.
+Trung bình
+Tải xuóng các tập tin hinh ảnh (e.g. JPG, 14 GIF BMP _) và các tài liệu có dung lượng lớn (e.g. .DOC, .PDF)
+Thẩp
+Tải xuống các tập tin audio; video (e.g. .AVI, 15 MPEG, RM files) , nhạc (e.g. MP3, .MIDI files)
+Tải xuống các chương trình hỗ trợ công việc 16 (e.g. .COM EXE files)
+Thấp
+17
+Tải xuống các tập tin nén (e.g. . ZIP files)
+Thẩp
+Sử dụng công cụ tải nhanh dữ liệu như 18 GetRight, Flashget, Teleport, etc.
+Trung binh
+Tải dữ liệu lên Git (Github, gitlab, gitea, 19 gitbucket,
+Cao
+Sử dụng phầm mềm Remote Desktop 20 qua Internet (Chrome Remote Desktop; Teamviewer; Anydesk;
+Cao
+Sử dụng Cloud drive (Onedrive; Google 21 Drive, Dropbox, Box,~
+Cao
+22
+Tẳt máy tính khi rời khỏi nơi làm việc
+Trung bình
+Truy cập các trang mua bán trực tuyến 23 như Shopee, Lazada, Tiki, Sendo, Cholot,
+Trung bình
+TMA Confidential
+@TMA Solutions, 2024
+Trang 32
+Thấp
+
+--- PAGE 33 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+Các hoạt động được phép thực hiện theo qui định Các hoạt động bị ngăn cấm Các hoạt động bị giới hạn phạm vi thực hiện. Khuyến khích liên hệ với Phòng IT System để tải xuống Các hoạt động phải được thực hiện bởi phòng IT System, nhân viên phải gửi yêu cầu tải xuõng những tập tin này Tham khảo qui định sử dụng Internet để biết thêm chi tiết
+6. Mật khẩu và mật mã Tất cả các hệ thõng thông tin điện tử đều được bảo vệ bằng mật khẩu để giới hạn việc truy cập thông tin, bảo vệ dữ liệu khỏi sự xáo trộn và nhận biết người sử dụng. Nhân viên được yêu cầu giữ kín mật khẩu của mình, thay đổi mật khẩu theo qui định chung. Việc sử 'dụng bãt hợp pháp mật khẩu để truy cập hoặc khôi phục thông tin đã truyền đi hoặc lưu trữ trên hệ thõng giao tiếp điện tử bị nghiêm cãm tuyệt đối. Nhân viên không cung cấp mật khẩu cho người khác dưới bãt kỳ hình thức nào. Định dạng mật khẩu theo qui định của TMA được hướng dẫn trong tài liệu tại trang web https://intranet.tma com.vn/QMSWeb/IT System/Standards/IS-ST-052-Password Standard.pdf
+Tóm lai, nhân viên phải đảm bảo rẳng mật khẩu Được cãp khi cần Được tạo bởi các ký tự ngẫu nhiên Không được lặp lại tên riêng Phải được kết hợp giữa các ký tựvà con sỗ Chiều dài mật khẩu trên 9 ký tự Phải được thay đổi sau 90 ngày Không được sử dụng chế độ đăng nhập tự động (Automatic log-on processes) Mã số dùng để vào các phòng trong công tỵ. Nhân viên phải: Giữ bí mật ma sỗ vào phòng Không cung cãp mã sõ vào cửa phòng cho người khác dưới bất kỳ hình thức nào
+TMA Confidential
+@TMA Solutions, 2024
+Trang 33
+
+--- PAGE 34 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+7 . Máy tính; server và network Mỗi nhân viên công ty được cung cấp nơi làm việc, máy tính và truy cập vào hệ thống để thực hiện công việc theo dự án. Tuy nhiên việc lạm dụng các phương tiện này sẽ gây nguy hiểm cho việc bảo mật mà nó có thể ảnh hưởng đến toàn công ty. Vì vậy; nhân viên cói trách nhiệm phải tuân thủ nghiêm túc các qui định khi sử dụng.
+Qui dịnh sử dụng:
+Đảm bảo máy tính phải kích hoạt mã hóa tất cả các ổ đía (disk encryption) , có kích hoạt chế độ screen-saver hay chương trình auto-log off (Khuyến cáo sau 03 phút không thao tác) và phải nhập password khi quay lại thao tác. Đảm bảo hệ điều hành luôn được cập nhật mới nhất. Đảm bảo rằng chương trình Antivirus luôn được cài đặt, bật chế độ bảo vệ thường trực và luôn được cập nhật dữ liệu mởi. Thông báo ngay cho phòng IT- system khi phát hiện ra virus hoặc nghi ngờ bị virus thâm nhập. Không được bẻ khóa hay sử dụng các phần mềm bãt hợp pháp; phần mềm miễn phí chỉ phuục vụ cho việc sử dụng cá nhân và học tập Không được truy cập dữ liệu của người khác khi chưa được phép Không được sử dụng bãt cứ thiết bị kiểm tra hoặc phần mềm nào để kiểm soát hoặc giám sát hệ thõng mạng máy tính khi không được ủy quyền của người quản lý.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 34
+
+--- PAGE 35 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+TMA s 0l utl ns
+Chương III
+VÊ SINH & AN TOÀN PCCC
+TMA Confidential
+@TMA Solutions, 2024
+Trang 35
+
+--- PAGE 36 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+1 . Tổ chức nơi làm viêc Là một trong những công ty hàng đầu tại Việt Nam và khu vực thì việc thực hiện một môi trường làm việc được tổ chức có khoa học, gọn gàng và vệ sinh phải được đặc biệt chú ý. Điều này chỉ được thực hiện tốt khi tất cả chúng ta đều ý thức về việc xẳp xếp tổ chức khu vực làm việc của mình, của dự án cũng như các bộ phận, phòng ban trong toàn công ty. Những vật dụng cần thiết phải được đặt đúng chỗ. Tất cả các vật dụng liên quan đến công việc cần được sắp xêp một cách hợp lý, khoa học và luôn giữ gìn vệ sinh nơi làm việc, đảm bảo nơi làm việc thông thoáng sao cho có tác động tích cực đến công việc. Hãy dành quỹ thời gian hàng ngày và hàng tuần của bạn để rà soát và sẳp xếp lại nơi làm việc một cách ngăn nẳp. Thực hiện và duy trì nguyên tẳc 5'S.
+Nguyên tắc 5'5 1s s SÀNG LỌC: Sàng lọc những thứ không cần thiết tại nơi làm việc và loại bỏ chúng. 2S s SẮP XẾP: Sắp xếp mọi thứ theo trật tự ngăn nẳp để tiện lợi khi sử dụng. Một nơi cho mọi thứ và mọi thứ phải đặt đúng chỗ. 3S  SACH SẼ: Vệ sinh mọi khu vực làm việc, không để bụi bám trên sàn nhà, bàn làm việc và máy móc. 4S s SĂN SÓC: Luôn giữ gìn vệ sinh nơi làm việc bằng cách thực hiện 1S,2S và 3S 5S ' SĂN SÀNG: Mọi người tựtạo cho mình thói quen giữ gin vệ sinh nơi làm việc một cach tự giác.
+Tổ chức nơi làm việc tốt, khoa học và sạch sẽ giúp chúng ta làm việc có năng suất, chãt lượng cao, an toàn cho mọi người và tạo nên tinh thần làm việc tốt.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 36
+
+--- PAGE 37 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+2. Nhận thức về cháy nổ Hậu quả của cháy nổ sẽ gây ra nhiều thảm họa đối với con người , môi trường và sự tồn tại của công tỵ. Trong nhiều trường hợp các công ty không thể khôi phục làm việc sau hỏa hoạn, cháy nổ Hậu quả của cháy nổ sẽ dẫn đến các thiệt hại nặng về con người, thiệt hại nặng về tài sản (dữ liệu máy tính, tài liệu, các vật dụng, máy móc,) và dẫn đến thãt nghiệp và phá sản. Nguyên nhân của cháy; nổ: Vi phạm các quy định về phòng cháy và chữa cháy. Sử dụng và lưu trữ các chãt dễ cháy không đúng cách. Dùng lửa một cách bãt cẩn. Sử dụng điện không an toàn Các tác động từ tự nhiên.
+3. Phòng cháy & chữa cháy Nhân viên có trách nhiệm: Thực hiện đúng nội qui về an toàn lao động, vệ sinh lao động, phòng cháy chữa cháy. Bồi thường thiệt hại cho công ty trong trường hợp làm trái nội qui PCCC & nội qui công ty gây hư hỏng trang thiết bị của công tỵ: Tham gia học tập huấn đầy đủ các khóa huấn luyện về an toàn lao động, vệ sinh lao động, PCCC do cơ quan chức năng tổ chức và công ty cử đi học hoặc tổ chức tại công ty. Có trách nhiệm báo cáo kịp thời cho người phụ trách trực tiếp biết các nguy cơ xảy ra tai nạn lao động, cháy nổ cho đến khi nguy cơ được khẳc phục
+CÁCH PHÒNG CHÁY TỪ BƯỚC KHỞl ĐẦU:
+Tuân thủ các quy định về phòng cháy & chữa cháy
+Chỉ hút thuõc lá tại những khu vực đã được quy định
+Đề phòng và kiểm tra các nguy cơ tiềm tàng tại nơi làm việc (cách ly vật dể cháy; dây điện .)
+Kiểm tra thường xuyên các thiết bị điện và báo cáo ngay nếu phát hiện bất kỳ hư hỏng nào.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 37
+
+--- PAGE 38 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+NGUYÊN TẮC CHỮA CHÁY:
+Loại bỏ một trong ba yếu tõ gây nên cháy và dập tắt đám cháy bằng các vật dựng cần thiết như bình chữa cháy cát, nước, vật liệu vải nhúng nưởc .
+Loại bỏ Oxi, điều kiện tiên quyết cho sự cháy
+Loại bỏ chãt cháy; điều kiện cộng tac cho sự cháy
+Loại bỏ
+nguồn nhiệt
+4. Hành động/phản ứng khi cháy Tiêu lệnh chữa cháy: 1. Khi phát hiện cháy phải lập tức báo động gấp. 2. Cúp cầu dao điện nơi xảy ra cháỵ. 3. Dập tắt đám cháy bằng bình chữa cháy; cát và nưởc (nếu không phải là thiết bị tin học, viễn thông) . 4. Gọi cảnh sát PCCC chuyên nghiệp số 114. Bất cứ ai khi phát hiện ra đám cháy đều phải la lên "Cháy! Cháy! Cháy!" liên tục.
+Đối với dám cháy nhỏ: Dùng bình chữa cháy đã được trang bị tại hầu hết các góc cầu thang của các tòa nhà và các vật dụng có thể để dập tắt đám cháy. Cách sử dụng bình chữa cháy Lẳc mạnh bình chữa cháy Rút chôt an toàn Bóp cò vịt đưa loa vào hướng gốc của đám lửa
+Đối với dám cháy lớn: Khi nghe các tín hiệu báo cháy như: Chuông reo, còi hụ hoặc đèn báo cháy chớp sáng liên tục thì nhân viên phải Ngưng ngay công việc lập tức Tẳt tất cả các thiết bị điện Sơ tán đến nơi quy định
+TMA Confidential
+@TMA Solutions, 2024
+Trang 38
+
+--- PAGE 39 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+5.Thủtục sơtán Trách nhiệm của nhân viên: lập tức rời khỏi vị trí làm việc, đi theo lối thoát hiểm đã được hướng dẫn và tập hợp tại điểm tập kết quy đinh. Trách nhiệm của cấp quản lý: Hướng dẫn nhân viên của mình rời khỏi vị trí làm việc và theo lối thoát hiểm đến tập trung tại địa điểm quy định. Kiểm tra số nhân viên của mình để đảm bảo không ai còn sót lại trong khu vực xảy ra sự cõ. Trách nhiệm của An Ninh, Bảo Vệ: Giữ gìn trật tự, an ninh và an toàn cho công ty, tránh trường hợp người bên ngoài trà trộn vào công ty để trục lợi hoặc phá hoại. 6. Bộ phận chữa cháy Bộ phận bảo vệ hoặc an ninh và những thành viên tham gia trong đội phòng cháy chữa cháy của công ty chịu trách nhiệm chính trong việc dập tẳt đám cháy.
+7 . Những điều nên và không nên khi có cháy
+NÊN LÀM
+KHÔNG NÊN
+Đóng chặt các cửa ra vào và cửa sổ để tránh đám cháy lan rộng Nhãn chuông báo động hoặc hô to "Cháy!" liên tục Thông báo ngay cho Bảo vệ & an ninh. Trong trường hợp cần thiết gọi cho cảnh sát PCCC số 114. Di chuyển bằng cách bò sát mặt đất khi có khói. Sơ tán khi nhận được lệnh báo cháỵ: Sử dụng cầu thang bộ để sơ tán. Tham gia di dời tài sản, dập tắt đám cháy khi đã đủ các phương tiện an toàn để thực hiện.
+Cản trở đường đi, cầu thang và các lối đi. Hoảng loạn và ở lại những chổ chật hẹp, khó phát hiện. Sử dụng thang máy để sơtán. Trở lại lãy đồ đạc cá nhân khi đã được lệnh rời đi . Tùy tiện đập vỡ các cửa kính.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 39
+
+--- PAGE 40 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+8. Nghĩa vụ của người lao dộng trong việc bảo vệ sức khỏe 1. NLĐ phải tuân theo các quy định của Công ty về bảo vệ sức khoẻ đối với cá nhân NLĐ 2. NLĐ phải tuân thủ các biện pháp phòng chõng dịch bệnh theo yêu cầu của cấp có thẩm quyền và của Công ty 3.NLĐ phải tuân thủ quy định về việc kiểm tra sức khỏe, cụ thể như sau: 3.1 NLĐ phải kiểm tra sức khỏe tại các cơ sởy tế được thành lập hợp pháp theo chỉ đinh của Công ty trước khi được nhận vào làm. 3.2 Trong các trường hợp đặc biệt, theo yêu cầu của Lãnh đạo Công ty, NLĐ phải tiến hành kiểm tra sức khỏe bổ sung ngoài việc kiểm tra sức khỏe định kỳ. Phải báo cáo với người quản lý trực tiếp khi bản thân NLĐ mẳc bệnh truyền nhiễm hoặc phát hiện NLĐ khác mắc bệnh truyền nhiễm.
+2a
+9. Huấn luyện, kiểm tra định kỳ an toàn và vệ sinh lao dộng 1 . Công Ty định kỳ kiểm tra việc thực hiện an toàn lao động, vệ sinh lao động theo quy đinh. Người lao động vi phạm các quy định về an toàn lao động, vệ sinh lao động phải chịu những hình thức xử lý kỷ luật tương ứng. 2. Hàng năm, Công Ty phải tổ chức học tập an toàn lao động cho tất cả người lao động. Nếu người lao động nào không học an toàn lao động thì không bõ trí làm việc. Những người đã học và huấn luyện an toàn lao động phải được kiểm tra và phải ký vào bản cam kết đấ được học và qua huấn luyện về an toàn lao động. Trường hợp người lao động không chấp hành nội quy an toàn lao động thì phải tự chịu trách nhiệm về tai nạn, thiệt hại xảy ra.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 40
+
+--- PAGE 41 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+TMA  s 0lut| n s
+Chương IV
+PHÒNG, CHỐNG QUẤY RỐl TÌNH DỤC TẠl NƠI LÀM VIỆC
+TMA Confidential
+@TMA Solutions, 2024
+Trang 41
+
+--- PAGE 42 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+1. Các hành vi QRTD tạỉ nơi làm việc 1 . Quấy rối tinh dục tại nơi làm việc là hành vi có tính chất tình dục của bất kỳ người nào đối với người khác tại nơi làm việc mà không được người đó mong muốn hoặc chấp nhận 2. Quấy rõi tinh dục tại nơi làm việc có thể bao gồm một hoặc nhiều hành vi, có thể xảy ra dưới dạng trao đổi như đề nghị, yêu cầu; gợi ý; đe dọa, ép buộc đổi quan hệ tình dục lấy bất kỳ lợi ích nào liên quan đến công việc; hoặc những hành vi có tính chất tình dục không nhằm mục đích trao đổi , nhưng khiến môi trường làm việc trở nên khó chịu và bất an, gây tổn hại về thể chất, tinh thần, hiệu quả công việc và cuộc sõng của người bị quãy rõi. 3. Quấy rối tinh dục tại nơi làm việc có thể bao gồm một hoặc nhiều hành vi, có thể bằng hành động, lời nói hoặc không phải bằng lời nói. 4. Hành vi quấy rõi tình dục bao gồm, nhưng không giới hạn nhửng hành vi sau: 4.1.Hành vi quấy rõi tình dục mang tính thể chất (gồm hành động, cử chỉ, tiếp xúc, tác động vào cơthể mang tính tình dục hoặc gợi ý tình dục) , cụ thể là: Cõý động chạm hoặc sử dụng đồ vật tác động vào cơthể của người khác mà trái với ý muốn của người đó. Cốý cọ sát cơthể với người khác mà trái vởiý muốn của người đó. Ép buộc người khác sờ; bóp, hôn, vuốt ve; cơthể của người có hành vi quấy rối. Sờ, bóp, ôm, hôn, vuõt ve; cơthể người khác mà trái với ý muốn của người đó. 4.2. Quấy rõi tình dục bằng lời nói (gồm lời nói trực tiếp; qua điện thoại hoặc qua phương tiện điện tử có nội dung tình dục hoặc có ngụ ý tình duc) , cụ thể là: Có những nhận xét bằng lời nói hoặc bằng văn bản không phù hợp, có bản chât gợi dục như: đưa ra những truyện cười gợi ý về tình dục, gọi những tên gợi dục, hỏi các câu hỏi có tính chất tình dục hay có những nhận xét về trang phục hoặc cơthể của một người nào đó khi có mặt họ hoặc hướng tới họ mà gây tâm lý khó chịu, phản ứng cho họ Đưa ra lời hẹn hò cá nhân hoặc đề nghị quan hệ tình dục một cách liên tục, trái với ý muõn của người nhận 4.3. Quấy rối tình dục phi lời nói (gồm ngôn ngữ cơ thể; trưng bày; miêu tả tài liệu trực quan về tình dục hoặc liên quan đến hoạt động tình dục trực tiếp hoặc qua phương tiện điện tử) , cụ thể là: Có hành vi không đứng đắn, dùng cơ hình thể khiêu khích, gợi duc. Phô bày các tài liệu khiêu dâm, hình ảnh, đồ vật, văn bản liên quan tới tình dục, gây xÚC phạm tới người nhận cũng như thư điện tử, ghi chép, tin nhẳn 986  liên quan đến tinh dục.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 42
+
+--- PAGE 43 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+2. Nguyên tắc, thời hạn xử lý đối với người có hành vi QRTD tại nơi làm việc Nguyên tẳc xử lý đối với người có hành vi quấy rối tinh dục tại nơi làm việc: Nhanh chóng, kịp thời; Bảo vệ bí mật, danh dự, uy tín, nhân phẩm; an toàn cho nạn nhân bị quãy rối tình dục Thời hiệu xử lý đõi với người có hành vi quấy rối tinh dục tại nơi làm việc được thực hiện theo thời hiệu xử lý kỷ luật lao động.
+3. Hình thức xử lý hành vi QRTD tại nơi làm việc Nhân viên có hành vi quấy rõi tình dục tại nơi làm việc bị ảp dụng hình thức kỷ luật Sa thải theo quy định tại Nội quy này và quy định của pháp luật lao động. Nhân viên có hành vi tõ cáo sai sựthật về hành vi quấy rõi tình dục sẽ bị xử lý kỷ luật bằng hinh thức kỷ luật theo phụ lục 2 của NQLĐ
+4. Quy trình xử lý hành vi QRTD tại nơi làm việc Quy trình xử lý hành vi quấy rõi tình dục tại nơi làm việc được thực hiện theo Quy trình kỷ luật của Công ty và theo pháp luật hiện hành.
+5. Trách nhiệm; nghĩa vụ phòng, chống QRTD tại nơi làm việc 5.1 . Công ty có nghĩa vụ: a. Thực hiện và giám sát việc thực hiện các quy định của pháp luật về phòng, chõng quấy rối tình dục tại nơi làm việc; b. Tổ chức tuyên truyền; phổ biến giáo dục pháp luật và quy định về phòng, chống quấy rối tình dục tại nơi làm việc cho người lao động; c. Khi xuất hiện khiếu nại, tố cáo về hành vi quấy rối tình dục tại nơi làm việc, Công ty phải kịp thời ngăn chặn, xử lý và có biện pháp bảo vệ bíÍ mật, danh dự, uy tín, nhân phẩm, an toàn cho nạn nhân bị quấy rối tình dục, người khiếu nại, tõ cáo và người bị khiếu nại, bị tố cáo. 5.2. Nhân viên có nghĩa vụ a. Thực hiện nghiêm các quy định về phóng, chõng quấy rõi tình dục tại nơi làm việc; b. Tham gia xây dựng môi trường làm việc không có quấy rối tình dục; C. Ngăn cản, tố cáo hành vi quấy rối tình dục tại nơi làm việc. 5.3. Tổ chức đại diện người lao động tại cơ sở có trách nhiệm a. Tham gia xây dựng, thực hiện, giám sát việc thực hiện các quy định về phòng, chõng quấy rối tình dục tại nơi làm việc; b. Cung cãp thông tin, tưvấn và đại diện cho người lao động bị quấy rối tình dục, người lao động đang bị khiếu nại, bị tố cáo có hành vi quấy rõi tinh dục; C. Tuyên truyền, phổ biến, tập huấn quy định về phòng, chống quấy rối tình dục tại nơi làm việc.
+TMA Confidential
+@TMA Solutions, 2024
+Trang 43
+
+--- PAGE 44 ---
+Ngày ban hành: 15/05/2024
+Sổ Tay Nhân Viên
+Phiên bản: 6.0
+PHỤ LỤC
+CÁC THÔNG TIN CƠ BẢN
+Liên hệ P. Nhân sự (hr@tma.com.vn) trong các trường hợp sau: Thu nhập / thưởng Hợp đồng lao động, BHXH, BHYT, BHTN & BH chăm sóc sức khỏe toàn diện Kết quả thử việc Đánh giả năng lực làm việc Ngày phép năm Công tác / đào tạo ở nước ngoài, Thị thực, Hộ chiếu Ý kiến phản hồi Các vấn đề cá nhân Tuyển dung CHÚ Ý: Khi cần sử dụng các Form, biểu mẫu liên quan đến công tác nhân sự, hãy in những tài liệu này theo đường dẫn sau: https:/ /intranet.tma.com.vn/QMSWeb/ index?pgid-depart&subid=hr
+Liên hệ P. Hành chánh: admin-dept@tma.com.vn  Hotline: 6096 Bàn, ghế, P.Làm việc, văn phòng phẩm Điện, nước, máy lạnh, bãi đậu xe, đăng ký gửi xe, vệ sinh Thư viện, chuyển công văn giửa các Lab CHÚ Ý: Khi cần tất cả các Form, biểu mẫu liên quan đến Hành Chánh, vui lòng in những tài liệu này theo đường dẫn sau https:/ /intranet.tma.com.vn/QMSWeb/ index?pgid=depart&subid=admin
+Liên hệ IT: ticket_itsupport@tma.com.vn  Hotline: 5555
+Đóng gópý kiến: Email: feedback-it@tma.com.vn PC Hardware Software Telephone Internet connection
+Xem thông tin chi tiết về chương trình BH CSSKTD tại link: https:/ /intranet.tma.com.vn/shares /VBIHealthCare Xem thông tin chi tiết về chính sách cho vay tiền với lãi suất 0% cho các trường hợp khẩn cấp tại link: https:/ /intranet tma.com.vn/shares/LoanPolicies
+TMA Confidential
+@TMA Solutions, 2024
+Trang 44
+

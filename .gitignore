@@ -1,0 +1,4 @@
+poppler-24.08.0
+venv
+.env
+__pycache__/
